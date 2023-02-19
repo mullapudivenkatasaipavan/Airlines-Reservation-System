@@ -9,3 +9,8 @@
  If the seat is booked it shows the error
  
  Having the symptoms of covid 19 are not eligible to book the seat![Screenshot (52)](https://user-images.githubusercontent.com/125792159/219939091-6f38bc2a-f962-42f2-a0f8-df302173926f.png)
+
+
+
+#output
+![Screenshot (53)](https://user-images.githubusercontent.com/125792159/219939296-810f889f-ace0-43eb-abc5-4ab6d55c33f6.png)
