@@ -58,7 +58,7 @@ def display_welcome():
     print(" *   *   *   * * * *   *       *        *         *  *  *  *   * * * * ")
     print(" * *   * *   *         *        *        *       *   *     *   *       ")
     print(" *       *   * * * *   * * * *   * * *    * * * *    *     *   * * * * ")
-    print(f"{bcolors.BOLD}{bcolors.HEADER}{bcolors.UNDERLINE}Welcome to https://github.com/mullapudivenkatasaipavan/Airlines-Reservation-System/tree/main/Airplane_Seating_Reservation-System-main , "
+    print(f"{bcolors.BOLD}{bcolors.HEADER}{bcolors.UNDERLINE}Welcome to https://github.com/mullapudivenkatasaipavan/Airlines-Reservation-System , "
           f"We would like to take some information:{bcolors.ENDC}{bcolors.ENDC}{bcolors.ENDC}")
 
 
@@ -402,7 +402,7 @@ def display_boarding_pass():  # displaying boarding pass -----------------------
             cost = 10000
 
         #  I know you want to change the travels name? ↓↓↓
-        print("   https://github.com/mullapudivenkatasaipavan/Airlines-Reservation-System/tree/main/Airplane_Seating_Reservation-System-main     ")
+        print("   https://github.com/mullapudivenkatasaipavan/Airlines-Reservation-System     ")
 
         print(f"{bcolors.OKBLUE}Name: {bcolors.ENDC}{name[i]} "
               f"{bcolors.OKBLUE}Flight: {bcolors.ENDC}OKL012"
